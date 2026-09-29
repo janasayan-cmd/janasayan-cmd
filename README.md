@@ -1,4 +1,6 @@
-# 💫 Hi 👋, I'm Sayan Jana
+## Hey there [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">](#) 
+I am Sayan
+
 **A passionate AI ML Devloper || DevOps Engineer || Tech Nerd from India**
 
 Email Me 👉 ✉️ **janasayan2412@gmail.com** For Collaboration/Project or Anything Else. 😊😊
